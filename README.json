@@ -1,0 +1,410 @@
+{
+  "items": [
+    {
+      "description": "Please do consider this fantastic paper ： Agent AI: Surveying the Horizons of Multimodal Interaction",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-12T03:08:58Z",
+            "owner": "WooooDyy",
+            "repo": "LLM-Agent-Paper-List",
+            "stars": 8171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on LLM-based Autonomous Agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-20T00:59:30Z",
+            "owner": "Paitesanshi",
+            "repo": "LLM-Agent-Survey",
+            "stars": 2911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-10T02:53:35Z",
+            "owner": "HCPLab-SYSU",
+            "repo": "Embodied_AI_Paper_List",
+            "stars": 2143
+          }
+        }
+      ],
+      "title": "Survey"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GT-RIPL's repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-17T20:28:18Z",
+            "owner": "GT-RIPL",
+            "repo": "Awesome-LLM-Robotics",
+            "stars": 4448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiang (Jony) ZHANG's repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T12:31:28Z",
+            "owner": "jonyzhang2023",
+            "repo": "awesome-embodied-vla-va-vln",
+            "stars": 3460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jiankai-Sun's repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-07T19:03:58Z",
+            "owner": "robotics-survey",
+            "repo": "Awesome-Robotics-Foundation-Models",
+            "stars": 1394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jacob Rintamaki's repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-14T15:16:29Z",
+            "owner": "jrin771",
+            "repo": "Everything-LLMs-And-Robotics",
+            "stars": 849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wenxuan Song's repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-20T04:47:12Z",
+            "owner": "Songwxuan",
+            "repo": "Embodied-AI-Paper-TopConf",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yafei Hu's repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-25T03:13:24Z",
+            "owner": "JeffreyYH",
+            "repo": "Awesome-Generalist-Robots-via-Foundation-Models",
+            "stars": 467
+          }
+        }
+      ],
+      "title": "Emboddied AI and Robotics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGen, EcoOptiGen",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-12T03:08:58Z",
+            "owner": "WooooDyy",
+            "repo": "LLM-Agent-Paper-List",
+            "stars": 8171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Open-source Framework for Autonomous Language Agents",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:15:47Z",
+            "owner": "modelscope",
+            "repo": "ms-agent",
+            "stars": 4359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentBench: Evaluating LLMs as Agents",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T17:01:05Z",
+            "owner": "THUDM",
+            "repo": "AgentBench",
+            "stars": 3664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision-Language Tasks",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-14T09:40:40Z",
+            "owner": "jingyi0000",
+            "repo": "VLM_survey",
+            "stars": 3129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentTuning: Enabling Generalized Agent Abilities For LLMs",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-31T15:34:43Z",
+            "owner": "THUDM",
+            "repo": "AgentTuning",
+            "stars": 1505
+          }
+        }
+      ],
+      "title": "LLM-Driven"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Trendings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CogAgent: Visual Expert for Pretrained Language Models",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-29T10:01:33Z",
+            "owner": "zai-org",
+            "repo": "CogVLM",
+            "stars": 6744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Open-source Framework for Autonomous Language Agents",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentBench: Evaluating LLMs as Agents",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T17:01:05Z",
+            "owner": "THUDM",
+            "repo": "AgentBench",
+            "stars": 3664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waymax: An accelerated simulator for autonomous driving research",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-23T04:29:20Z",
+            "owner": "waymo-research",
+            "repo": "waymax",
+            "stars": 1093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProAgent: from Robotic Process Automation to Agentic Process Automation",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-27T13:53:35Z",
+            "owner": "OpenBMB",
+            "repo": "ProAgent",
+            "stars": 867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Guided Generation of 3D Embodied AI Environments",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-02T15:01:15Z",
+            "owner": "allenai",
+            "repo": "Holodeck",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple but Effective: CLIP Embeddings for Embodied AI",
+          "description": "octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-16T01:45:58Z",
+            "owner": "allenai",
+            "repo": "embodied-clip",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "2023"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:00:45.392Z",
+    "original_repository": "haoranD/Awesome-Embodied-AI",
+    "original_repository_sha": "a71d24dda4c8e508da46c88565d57d071888b07f",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-AI",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Embodied-AI with stars"
+  }
+}
