@@ -17,7 +17,7 @@
                 "last_commit": "2025-09-12T03:08:58Z",
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8174
+                "stars": 8178
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-10T02:53:35Z",
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2150
+                "stars": 2151
               }
             }
           ],
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-07T12:31:28Z",
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3466
+                "stars": 3470
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-05-20T04:47:12Z",
                 "owner": "Songwxuan",
                 "repo": "Embodied-AI-Paper-TopConf",
-                "stars": 749
+                "stars": 750
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69907
+                "stars": 69931
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60536
+                "stars": 60555
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2025-09-12T03:08:58Z",
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8174
+                "stars": 8178
               }
             },
             {
@@ -238,10 +238,10 @@
                 "archived": false,
                 "id": 674153903,
                 "language": "Python",
-                "last_commit": "2026-08-17T11:37:38Z",
+                "last_commit": "2026-08-21T06:13:07Z",
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4367
+                "stars": 4366
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3676
+                "stars": 3677
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2025-10-14T09:40:40Z",
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3128
+                "stars": 3127
               }
             },
             {
@@ -310,7 +310,7 @@
                     "last_commit": "2026-01-21T10:12:33Z",
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 69907
+                    "stars": 69931
                   }
                 },
                 {
@@ -355,7 +355,7 @@
                     "last_commit": "2026-02-08T17:01:05Z",
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3676
+                    "stars": 3677
                   }
                 },
                 {
@@ -385,7 +385,7 @@
                     "last_commit": "2023-12-27T13:53:35Z",
                     "owner": "OpenBMB",
                     "repo": "ProAgent",
-                    "stars": 866
+                    "stars": 865
                   }
                 },
                 {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:43:38.503Z",
+    "last_updated": "2026-08-21T11:43:22.575Z",
     "original_repository": "haoranD/Awesome-Embodied-AI",
     "original_repository_id": 669301097,
     "original_repository_sha": "a71d24dda4c8e508da46c88565d57d071888b07f",
