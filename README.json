@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-10T02:53:35Z",
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2151
+                "stars": 2152
               }
             }
           ],
@@ -69,7 +69,7 @@
                 "last_commit": "2026-07-17T20:28:18Z",
                 "owner": "GT-RIPL",
                 "repo": "Awesome-LLM-Robotics",
-                "stars": 4453
+                "stars": 4455
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-07T12:31:28Z",
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3470
+                "stars": 3471
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-05-20T04:47:12Z",
                 "owner": "Songwxuan",
                 "repo": "Embodied-AI-Paper-TopConf",
-                "stars": 750
+                "stars": 753
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69931
+                "stars": 69944
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60555
+                "stars": 60568
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2024-09-26T03:12:53Z",
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5955
+                "stars": 5956
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-08-21T06:13:07Z",
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4366
+                "stars": 4368
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3677
+                "stars": 3679
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2025-10-14T09:40:40Z",
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3127
+                "stars": 3128
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2023-10-31T15:34:43Z",
                 "owner": "THUDM",
                 "repo": "AgentTuning",
-                "stars": 1505
+                "stars": 1504
               }
             }
           ],
@@ -310,7 +310,7 @@
                     "last_commit": "2026-01-21T10:12:33Z",
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 69931
+                    "stars": 69944
                   }
                 },
                 {
@@ -340,7 +340,7 @@
                     "last_commit": "2024-09-26T03:12:53Z",
                     "owner": "aiwaves-cn",
                     "repo": "agents",
-                    "stars": 5955
+                    "stars": 5956
                   }
                 },
                 {
@@ -355,7 +355,7 @@
                     "last_commit": "2026-02-08T17:01:05Z",
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3677
+                    "stars": 3679
                   }
                 },
                 {
@@ -370,7 +370,7 @@
                     "last_commit": "2025-10-23T04:29:20Z",
                     "owner": "waymo-research",
                     "repo": "waymax",
-                    "stars": 1093
+                    "stars": 1094
                   }
                 },
                 {
@@ -400,7 +400,7 @@
                     "last_commit": "2025-04-02T15:01:15Z",
                     "owner": "allenai",
                     "repo": "Holodeck",
-                    "stars": 562
+                    "stars": 561
                   }
                 },
                 {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:43:22.575Z",
+    "last_updated": "2026-08-22T11:35:18.380Z",
     "original_repository": "haoranD/Awesome-Embodied-AI",
     "original_repository_id": 669301097,
     "original_repository_sha": "a71d24dda4c8e508da46c88565d57d071888b07f",
