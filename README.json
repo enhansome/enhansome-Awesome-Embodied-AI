@@ -17,7 +17,7 @@
                 "last_commit": "2025-09-12T03:08:58Z",
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8178
+                "stars": 8180
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-02-20T00:59:30Z",
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2910
+                "stars": 2911
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-07T12:31:28Z",
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3473
+                "stars": 3475
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2024-10-07T19:03:58Z",
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1397
+                "stars": 1398
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-05-20T04:47:12Z",
                 "owner": "Songwxuan",
                 "repo": "Embodied-AI-Paper-TopConf",
-                "stars": 753
+                "stars": 755
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69961
+                "stars": 69993
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60582
+                "stars": 60605
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2025-09-12T03:08:58Z",
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8178
+                "stars": 8180
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2024-09-26T03:12:53Z",
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5956
+                "stars": 5957
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2024-09-09T05:47:44Z",
                 "owner": "OpenBMB",
                 "repo": "AgentVerse",
-                "stars": 5113
+                "stars": 5114
               }
             },
             {
@@ -238,10 +238,10 @@
                 "archived": false,
                 "id": 674153903,
                 "language": "Python",
-                "last_commit": "2026-08-21T06:13:07Z",
+                "last_commit": "2026-08-24T11:19:36Z",
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4368
+                "stars": 4369
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3681
+                "stars": 3686
               }
             },
             {
@@ -310,7 +310,7 @@
                     "last_commit": "2026-01-21T10:12:33Z",
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 69961
+                    "stars": 69993
                   }
                 },
                 {
@@ -340,7 +340,7 @@
                     "last_commit": "2024-09-26T03:12:53Z",
                     "owner": "aiwaves-cn",
                     "repo": "agents",
-                    "stars": 5956
+                    "stars": 5957
                   }
                 },
                 {
@@ -355,7 +355,7 @@
                     "last_commit": "2026-02-08T17:01:05Z",
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3681
+                    "stars": 3686
                   }
                 },
                 {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:35:12.806Z",
+    "last_updated": "2026-08-24T11:44:30.499Z",
     "original_repository": "haoranD/Awesome-Embodied-AI",
     "original_repository_id": 669301097,
     "original_repository_sha": "a71d24dda4c8e508da46c88565d57d071888b07f",
