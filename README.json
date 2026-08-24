@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-07T12:31:28Z",
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3475
+                "stars": 3476
               }
             },
             {
@@ -156,6 +156,65 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Thanks to Changan's repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277348364,
+                "language": null,
+                "last_commit": "2025-06-13T18:55:49Z",
+                "owner": "ChanganVR",
+                "repo": "awesome-embodied-vision",
+                "stars": 706
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Navigation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Thanks to Rui's repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 667180665,
+                "language": null,
+                "last_commit": "2024-04-21T22:01:54Z",
+                "owner": "soraw-ai",
+                "repo": "Awesome-Robotics-And-Agentics-Work",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAgent",
+              "description": "octocat:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675660259,
+                "language": "Python",
+                "last_commit": "2024-05-01T09:46:55Z",
+                "owner": "dot-agent",
+                "repo": "nextpy",
+                "stars": 2348
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R&D"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework",
               "description": "octocat:",
               "children": [],
@@ -166,7 +225,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69993
+                "stars": 69996
               }
             },
             {
@@ -181,7 +240,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60605
+                "stars": 60609
               }
             },
             {
@@ -256,7 +315,7 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3686
+                "stars": 3687
               }
             },
             {
@@ -310,7 +369,7 @@
                     "last_commit": "2026-01-21T10:12:33Z",
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 69993
+                    "stars": 69996
                   }
                 },
                 {
@@ -355,7 +414,7 @@
                     "last_commit": "2026-02-08T17:01:05Z",
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3686
+                    "stars": 3687
                   }
                 },
                 {
@@ -433,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:44:30.499Z",
+    "last_updated": "2026-08-24T14:22:06.172Z",
     "original_repository": "haoranD/Awesome-Embodied-AI",
     "original_repository_id": 669301097,
     "original_repository_sha": "a71d24dda4c8e508da46c88565d57d071888b07f",
