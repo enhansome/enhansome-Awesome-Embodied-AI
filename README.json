@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The paper list of the 86-page SCIS cover paper \"The Rise and Potential of Large Language Model Based Agents: A Survey\" by Zhiheng Xi et al.",
+                "homepage": "https://arxiv.org/abs/2309.07864",
                 "id": 690609896,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-12T03:08:58Z",
+                "open_issues": 31,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8183
+                "stars": 8183,
+                "topics": [
+                  "agent",
+                  "large-language-models",
+                  "llm",
+                  "nlp",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 674158658,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-20T00:59:30Z",
+                "open_issues": 16,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2910
+                "stars": 2910,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -44,12 +60,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI",
+                "homepage": null,
                 "id": 811638645,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-10T02:53:35Z",
+                "open_issues": 2,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2156
+                "stars": 2156,
+                "topics": [
+                  "agent",
+                  "causality",
+                  "embodied-ai",
+                  "interaction",
+                  "manipulation",
+                  "navigation",
+                  "percpetion",
+                  "reasoning",
+                  "robotics",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             }
@@ -67,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
+                "homepage": null,
                 "id": 524119789,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-17T20:28:18Z",
+                "open_issues": 10,
                 "owner": "GT-RIPL",
                 "repo": "Awesome-LLM-Robotics",
-                "stars": 4459
+                "stars": 4459,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -83,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches. ",
+                "homepage": null,
                 "id": 917564127,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-07T12:31:28Z",
+                "open_issues": 4,
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3486
+                "stars": 3485,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -99,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 718423019,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-10-07T19:03:58Z",
+                "open_issues": 3,
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1401
+                "stars": 1401,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -115,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's largest GitHub Repository for LLMs + Robotics",
+                "homepage": null,
                 "id": 638811415,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-07-14T15:16:29Z",
+                "open_issues": 4,
                 "owner": "jrin771",
                 "repo": "Everything-LLMs-And-Robotics",
-                "stars": 849
+                "stars": 849,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -131,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Actively Maintained🔥] A list of Embodied AI papers accepted by top conferences (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV).",
+                "homepage": null,
                 "id": 951054812,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-20T04:47:12Z",
+                "open_issues": 0,
                 "owner": "Songwxuan",
                 "repo": "Embodied-AI-Paper-TopConf",
-                "stars": 758
+                "stars": 758,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -147,12 +204,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paper list in the survey paper: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis",
+                "homepage": "https://arxiv.org/abs/2312.08782",
                 "id": 655944566,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-25T03:13:24Z",
+                "open_issues": 0,
                 "owner": "JeffreyYH",
                 "repo": "Awesome-Generalist-Robots-via-Foundation-Models",
-                "stars": 468
+                "stars": 468,
+                "topics": [
+                  "foundation-models",
+                  "foundation-models-for-robotics",
+                  "general-purpose-robots",
+                  "generalist-robots",
+                  "vision-language-action-model",
+                  "world-action-model",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             }
@@ -170,12 +240,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reading list for research topics in embodied vision",
+                "homepage": null,
                 "id": 277348364,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-13T18:55:49Z",
+                "open_issues": 4,
                 "owner": "ChanganVR",
                 "repo": "awesome-embodied-vision",
-                "stars": 706
+                "stars": 706,
+                "topics": [
+                  "awesome-list",
+                  "curated-list",
+                  "embodied-vision",
+                  "visual-exploration",
+                  "visual-navigation",
+                  "vln"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             }
@@ -193,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All about Robotics and AI Agents you need are here",
+                "homepage": "http://soraw.ai",
                 "id": 667180665,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-21T22:01:54Z",
+                "open_issues": 1,
                 "owner": "soraw-ai",
                 "repo": "Awesome-Robotics-And-Agentics-Work",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -209,12 +296,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖Self-Modifying Framework from the Future 🔮 World's First AMS",
+                "homepage": "https://dotagent.ai",
                 "id": 675660259,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-01T09:46:55Z",
+                "open_issues": 23,
                 "owner": "dot-agent",
                 "repo": "nextpy",
-                "stars": 2350
+                "stars": 2350,
+                "topics": [
+                  "agent",
+                  "agi",
+                  "ai",
+                  "ai-agents",
+                  "autogpt",
+                  "fastapi",
+                  "fastapi-framework",
+                  "fastapi-template",
+                  "fullstack-development",
+                  "gpt",
+                  "llm",
+                  "llmops",
+                  "mlops",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "sqlmodel",
+                  "streamlit",
+                  "webdev",
+                  "webdevelopment"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             }
@@ -232,12 +345,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+                "homepage": "https://atoms.dev/",
                 "id": 660551251,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
+                "open_issues": 135,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70087
+                "stars": 70090,
+                "topics": [
+                  "agent",
+                  "gpt",
+                  "llm",
+                  "metagpt",
+                  "multi-agent"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -248,12 +372,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A programming framework for agentic AI",
+                "homepage": "https://microsoft.github.io/autogen/",
                 "id": 680120071,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-04-15T11:59:09Z",
+                "open_issues": 992,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60676
+                "stars": 60680,
+                "topics": [
+                  "agentic",
+                  "agentic-agi",
+                  "agents",
+                  "ai",
+                  "autogen",
+                  "autogen-ecosystem",
+                  "chatgpt",
+                  "framework",
+                  "llm-agent",
+                  "llm-framework"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -264,12 +404,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The paper list of the 86-page SCIS cover paper \"The Rise and Potential of Large Language Model Based Agents: A Survey\" by Zhiheng Xi et al.",
+                "homepage": "https://arxiv.org/abs/2309.07864",
                 "id": 690609896,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-12T03:08:58Z",
+                "open_issues": 31,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8183
+                "stars": 8183,
+                "topics": [
+                  "agent",
+                  "large-language-models",
+                  "llm",
+                  "nlp",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -280,12 +431,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents",
+                "homepage": null,
                 "id": 667645956,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-26T03:12:53Z",
+                "open_issues": 46,
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5959
+                "stars": 5959,
+                "topics": [
+                  "autonomous-agents",
+                  "language-model",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -296,12 +456,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
+                "homepage": null,
                 "id": 636922549,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-09T05:47:44Z",
+                "open_issues": 35,
                 "owner": "OpenBMB",
                 "repo": "AgentVerse",
-                "stars": 5118
+                "stars": 5118,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "gpt",
+                  "gpt-4",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -312,12 +483,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MS-Agent: a lightweight framework to empower agentic execution of complex tasks",
+                "homepage": "https://ms-agent-en.readthedocs.io",
                 "id": 674153903,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:17:16Z",
+                "open_issues": 27,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4371
+                "stars": 4371,
+                "topics": [
+                  "agentic-insight",
+                  "agentic-search",
+                  "chat-bot",
+                  "code-generation",
+                  "deep-research",
+                  "memory"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -328,12 +511,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+                "homepage": null,
                 "id": 671759870,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-08T17:01:05Z",
+                "open_issues": 76,
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3701
+                "stars": 3701,
+                "topics": [
+                  "chatgpt",
+                  "gpt-4",
+                  "llm",
+                  "llm-agent"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -344,12 +537,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of AWESOME vision-language models for vision tasks",
+                "homepage": null,
                 "id": 621170910,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-10-14T09:40:40Z",
+                "open_issues": 3,
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3126
+                "stars": 3126,
+                "topics": [
+                  "clip",
+                  "computer-vision",
+                  "deep-learning",
+                  "knowledge-distillation",
+                  "multi-modal-model",
+                  "survey",
+                  "transfer-learning",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             },
@@ -360,12 +567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AgentTuning: Enabling Generalized Agent Abilities for LLMs",
+                "homepage": "https://thudm.github.io/AgentTuning/",
                 "id": 706842035,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-31T15:34:43Z",
+                "open_issues": 17,
                 "owner": "THUDM",
                 "repo": "AgentTuning",
-                "stars": 1504
+                "stars": 1504,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
             }
@@ -385,12 +597,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+                    "homepage": "https://atoms.dev/",
                     "id": 660551251,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-21T10:12:33Z",
+                    "open_issues": 135,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 70087
+                    "stars": 70090,
+                    "topics": [
+                      "agent",
+                      "gpt",
+                      "llm",
+                      "metagpt",
+                      "multi-agent"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
                 },
@@ -401,12 +624,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型",
+                    "homepage": null,
                     "id": 692935244,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-29T10:01:33Z",
+                    "open_issues": 67,
                     "owner": "zai-org",
                     "repo": "CogVLM",
-                    "stars": 6744
+                    "stars": 6744,
+                    "topics": [
+                      "cross-modality",
+                      "language-model",
+                      "multi-modal",
+                      "pretrained-models",
+                      "visual-language-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
                 },
@@ -417,12 +651,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents",
+                    "homepage": null,
                     "id": 667645956,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-09-26T03:12:53Z",
+                    "open_issues": 46,
                     "owner": "aiwaves-cn",
                     "repo": "agents",
-                    "stars": 5959
+                    "stars": 5959,
+                    "topics": [
+                      "autonomous-agents",
+                      "language-model",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
                 },
@@ -433,12 +676,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+                    "homepage": null,
                     "id": 671759870,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-08T17:01:05Z",
+                    "open_issues": 76,
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3701
+                    "stars": 3701,
+                    "topics": [
+                      "chatgpt",
+                      "gpt-4",
+                      "llm",
+                      "llm-agent"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
                 },
@@ -449,12 +702,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A JAX-based simulator for autonomous driving research.",
+                    "homepage": null,
                     "id": 699546050,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-23T04:29:20Z",
+                    "open_issues": 21,
                     "owner": "waymo-research",
                     "repo": "waymax",
-                    "stars": 1095
+                    "stars": 1095,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
                 },
@@ -465,12 +723,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation",
+                    "homepage": null,
                     "id": 713660395,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-27T13:53:35Z",
+                    "open_issues": 12,
                     "owner": "OpenBMB",
                     "repo": "ProAgent",
-                    "stars": 865
+                    "stars": 865,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
                 },
@@ -481,12 +744,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CVPR 2024: Language Guided Generation of 3D Embodied AI Environments.",
+                    "homepage": "https://yueyang1996.github.io/holodeck",
                     "id": 729271800,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-02T15:01:15Z",
+                    "open_issues": 24,
                     "owner": "allenai",
                     "repo": "Holodeck",
-                    "stars": 563
+                    "stars": 565,
+                    "topics": [
+                      "3d-environment",
+                      "ai2-thor",
+                      "generative-ai",
+                      "large-language-models",
+                      "text-to-3d",
+                      "unity"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
                 },
@@ -497,12 +772,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official codebase for EmbCLIP",
+                    "homepage": "https://arxiv.org/abs/2111.09888",
                     "id": 417702813,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-16T01:45:58Z",
+                    "open_issues": 0,
                     "owner": "allenai",
                     "repo": "embodied-clip",
-                    "stars": 130
+                    "stars": 130,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
                 }
@@ -521,15 +801,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:26:40.587Z",
+    "last_updated": "2026-08-29T04:40:50.392Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome papers on Embodied AI and related research/industry-driven resources.",
+      "homepage": null,
       "id": 669301097,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-06-03T15:13:28Z",
+      "open_issues": 4,
       "owner": "haoranD",
       "repo": "Awesome-Embodied-AI",
-      "stars": 528
+      "stars": 528,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "classification",
+        "detection",
+        "embodied",
+        "embodied-agent",
+        "embodied-ai",
+        "embodied-artificial-intelligence",
+        "embodied-cognition",
+        "languange",
+        "learning",
+        "navigation",
+        "perception",
+        "perceptron",
+        "recognition",
+        "segmentation",
+        "understanding",
+        "visual",
+        "visual-language",
+        "vlm"
+      ]
     },
     "original_repository_sha": "a71d24dda4c8e508da46c88565d57d071888b07f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-AI",
