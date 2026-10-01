@@ -48,7 +48,7 @@
                 "open_issues": 17,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2911,
+                "stars": 2912,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
@@ -69,7 +69,7 @@
                 "open_issues": 3,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2177,
+                "stars": 2178,
                 "topics": [
                   "agent",
                   "causality",
@@ -129,7 +129,7 @@
                 "open_issues": 10,
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3561,
+                "stars": 3562,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
@@ -249,7 +249,7 @@
                 "open_issues": 5,
                 "owner": "ChanganVR",
                 "repo": "awesome-embodied-vision",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "awesome-list",
                   "curated-list",
@@ -305,7 +305,7 @@
                 "open_issues": 23,
                 "owner": "dot-agent",
                 "repo": "nextpy",
-                "stars": 2346,
+                "stars": 2348,
                 "topics": [
                   "agent",
                   "agi",
@@ -354,7 +354,7 @@
                 "open_issues": 145,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70704,
+                "stars": 70716,
                 "topics": [
                   "agent",
                   "gpt",
@@ -378,10 +378,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-04-15T11:59:09Z",
-                "open_issues": 1115,
+                "open_issues": 1119,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 61243,
+                "stars": 61250,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -465,7 +465,7 @@
                 "open_issues": 40,
                 "owner": "OpenBMB",
                 "repo": "AgentVerse",
-                "stars": 5149,
+                "stars": 5150,
                 "topics": [
                   "agent",
                   "ai",
@@ -606,7 +606,7 @@
                     "open_issues": 145,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 70704,
+                    "stars": 70716,
                     "topics": [
                       "agent",
                       "gpt",
@@ -711,7 +711,7 @@
                     "open_issues": 21,
                     "owner": "waymo-research",
                     "repo": "waymax",
-                    "stars": 1107,
+                    "stars": 1108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:40.587Z"
@@ -753,7 +753,7 @@
                     "open_issues": 24,
                     "owner": "allenai",
                     "repo": "Holodeck",
-                    "stars": 576,
+                    "stars": 575,
                     "topics": [
                       "3d-environment",
                       "ai2-thor",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:49:39.258Z",
+    "last_updated": "2026-10-01T17:23:01.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on Embodied AI and related research/industry-driven resources.",
@@ -810,10 +810,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-06-03T15:13:28Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "haoranD",
       "repo": "Awesome-Embodied-AI",
-      "stars": 531,
+      "stars": 532,
       "topics": [
         "awesome",
         "awesome-list",
