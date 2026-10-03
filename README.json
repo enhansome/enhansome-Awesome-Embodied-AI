@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
-              "description": null,
+              "description": "WooooDyy/LLM-Agent-Paper-List",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -35,7 +35,7 @@
             {
               "node_type": "item",
               "title": "A Survey on LLM-based Autonomous Agents",
-              "description": null,
+              "description": "Paitesanshi/LLM-Agent-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -56,7 +56,7 @@
             {
               "node_type": "item",
               "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI",
-              "description": null,
+              "description": "HCPLab-SYSU/Embodied_AI_Paper_List",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -95,7 +95,7 @@
             {
               "node_type": "item",
               "title": "GT-RIPL's repository",
-              "description": null,
+              "description": "GT-RIPL/Awesome-LLM-Robotics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "Qiang (Jony) ZHANG's repository",
-              "description": null,
+              "description": "jonyzhang2023/awesome-embodied-vla-va-vln",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -137,7 +137,7 @@
             {
               "node_type": "item",
               "title": "Jiankai-Sun's repository",
-              "description": null,
+              "description": "robotics-survey/Awesome-Robotics-Foundation-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -158,7 +158,7 @@
             {
               "node_type": "item",
               "title": "Jacob Rintamaki's repository",
-              "description": null,
+              "description": "jrin771/Everything-LLMs-And-Robotics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,7 +179,7 @@
             {
               "node_type": "item",
               "title": "Wenxuan Song's repository",
-              "description": null,
+              "description": "Songwxuan/Embodied-AI-Paper-TopConf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "Yafei Hu's repository",
-              "description": null,
+              "description": "JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -236,7 +236,7 @@
             {
               "node_type": "item",
               "title": "Thanks to Changan's repository",
-              "description": null,
+              "description": "ChanganVR/awesome-embodied-vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -271,7 +271,7 @@
             {
               "node_type": "item",
               "title": "Thanks to Rui's repository",
-              "description": null,
+              "description": "soraw-ai/Awesome-Robotics-And-Agentics-Work",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -351,10 +351,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 145,
+                "open_issues": 144,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70718,
+                "stars": 70719,
                 "topics": [
                   "agent",
                   "gpt",
@@ -381,7 +381,7 @@
                 "open_issues": 1109,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 61248,
+                "stars": 61249,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -440,7 +440,7 @@
                 "open_issues": 49,
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5964,
+                "stars": 5965,
                 "topics": [
                   "autonomous-agents",
                   "language-model",
@@ -603,10 +603,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-21T10:12:33Z",
-                    "open_issues": 145,
+                    "open_issues": 144,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 70718,
+                    "stars": 70719,
                     "topics": [
                       "agent",
                       "gpt",
@@ -660,7 +660,7 @@
                     "open_issues": 49,
                     "owner": "aiwaves-cn",
                     "repo": "agents",
-                    "stars": 5964,
+                    "stars": 5965,
                     "topics": [
                       "autonomous-agents",
                       "language-model",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:38:37.435Z",
+    "last_updated": "2026-10-03T04:26:19.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on Embodied AI and related research/industry-driven resources.",
