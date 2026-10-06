@@ -1,8 +1,8 @@
 # Awesome-Embodied-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,359 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,545 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
-A curated list of awesome papers on Embodied AI and related research/industry-driven resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,589 | 🐛 99 | 📅 2024-05-17.
+A curated list of awesome papers on Embodied AI and related research/industry-driven resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,590 | 🐛 99 | 📅 2024-05-17.
 
 Embodied AI has led to a new breakthrough, and this repository will keep tracking and summarizing the research or industrial progress.
 
@@ -83,8 +83,8 @@ Please do consider this fantastic paper ：
 
 ### LLM-Driven
 
-* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT) ⭐ 70,760 | 🐛 142 | 🌐 Python | 📅 2026-01-21:octocat:
-* [AutoGen, EcoOptiGen](https://github.com/microsoft/autogen) ⭐ 61,271 | 🐛 1,101 | 🌐 Python | 📅 2026-04-15:octocat:
+* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT) ⭐ 70,761 | 🐛 142 | 🌐 Python | 📅 2026-01-21:octocat:
+* [AutoGen, EcoOptiGen](https://github.com/microsoft/autogen) ⭐ 61,275 | 🐛 1,102 | 🌐 Python | 📅 2026-04-15:octocat:
 * [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,222 | 🐛 33 | 📅 2025-09-12:octocat:
 * [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,965 | 🐛 49 | 🌐 Python | 📅 2024-09-26:octocat:
 * [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://github.com/OpenBMB/AgentVerse) ⭐ 5,154 | 🐛 40 | 🌐 JavaScript | 📅 2024-09-09 :octocat:
@@ -108,7 +108,7 @@ Please do consider this fantastic paper ：
 
 #### 2023
 
-* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT) ⭐ 70,760 | 🐛 142 | 🌐 Python | 📅 2026-01-21:octocat:
+* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT) ⭐ 70,761 | 🐛 142 | 🌐 Python | 📅 2026-01-21:octocat:
 * [CogAgent: Visual Expert for Pretrained Language Models](https://github.com/THUDM/CogVLM) ⭐ 6,743 | 🐛 69 | 🌐 Python | 📅 2024-05-29:octocat:
 * [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,965 | 🐛 49 | 🌐 Python | 📅 2024-09-26:octocat:
 * [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench) ⭐ 3,763 | 🐛 80 | 🌐 Python | 📅 2026-02-08:octocat:
