@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-09-12T03:08:58Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
                 "stars": 8221,
@@ -66,7 +66,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-10T02:53:35Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
                 "stars": 2182,
@@ -105,10 +105,10 @@
                 "language": null,
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-07-17T20:28:18Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "GT-RIPL",
                 "repo": "Awesome-LLM-Robotics",
-                "stars": 4482,
+                "stars": 4484,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
@@ -129,7 +129,7 @@
                 "open_issues": 12,
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3574,
+                "stars": 3576,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
@@ -351,10 +351,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 141,
+                "open_issues": 142,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70786,
+                "stars": 70791,
                 "topics": [
                   "agent",
                   "gpt",
@@ -378,10 +378,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-04-15T11:59:09Z",
-                "open_issues": 1102,
+                "open_issues": 1101,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 61330,
+                "stars": 61343,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -410,7 +410,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-09-12T03:08:58Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
                 "stars": 8221,
@@ -440,7 +440,7 @@
                 "open_issues": 49,
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5965,
+                "stars": 5966,
                 "topics": [
                   "autonomous-agents",
                   "language-model",
@@ -492,7 +492,7 @@
                 "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4409,
+                "stars": 4410,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -520,7 +520,7 @@
                 "open_issues": 80,
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3765,
+                "stars": 3764,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -603,10 +603,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-21T10:12:33Z",
-                    "open_issues": 141,
+                    "open_issues": 142,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 70786,
+                    "stars": 70791,
                     "topics": [
                       "agent",
                       "gpt",
@@ -660,7 +660,7 @@
                     "open_issues": 49,
                     "owner": "aiwaves-cn",
                     "repo": "agents",
-                    "stars": 5965,
+                    "stars": 5966,
                     "topics": [
                       "autonomous-agents",
                       "language-model",
@@ -685,7 +685,7 @@
                     "open_issues": 80,
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3765,
+                    "stars": 3764,
                     "topics": [
                       "chatgpt",
                       "gpt-4",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:26:58.753Z",
+    "last_updated": "2026-10-10T16:14:31.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on Embodied AI and related research/industry-driven resources.",
