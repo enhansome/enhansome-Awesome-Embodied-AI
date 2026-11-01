@@ -105,10 +105,10 @@
                 "language": null,
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-29T04:41:10Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "GT-RIPL",
                 "repo": "Awesome-LLM-Robotics",
-                "stars": 4495,
+                "stars": 4496,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
@@ -129,7 +129,7 @@
                 "open_issues": 16,
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3617,
+                "stars": 3618,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
@@ -351,10 +351,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 139,
+                "open_issues": 142,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 71104,
+                "stars": 71123,
                 "topics": [
                   "agent",
                   "gpt",
@@ -378,10 +378,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-28T14:45:27Z",
-                "open_issues": 1126,
+                "open_issues": 1127,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 61649,
+                "stars": 61662,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -440,7 +440,7 @@
                 "open_issues": 70,
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5969,
+                "stars": 5968,
                 "topics": [
                   "autonomous-agents",
                   "language-model",
@@ -520,7 +520,7 @@
                 "open_issues": 80,
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3802,
+                "stars": 3805,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -546,7 +546,7 @@
                 "open_issues": 2,
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3132,
+                "stars": 3133,
                 "topics": [
                   "clip",
                   "computer-vision",
@@ -603,10 +603,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-21T10:12:33Z",
-                    "open_issues": 139,
+                    "open_issues": 142,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 71104,
+                    "stars": 71123,
                     "topics": [
                       "agent",
                       "gpt",
@@ -660,7 +660,7 @@
                     "open_issues": 70,
                     "owner": "aiwaves-cn",
                     "repo": "agents",
-                    "stars": 5969,
+                    "stars": 5968,
                     "topics": [
                       "autonomous-agents",
                       "language-model",
@@ -685,7 +685,7 @@
                     "open_issues": 80,
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3802,
+                    "stars": 3805,
                     "topics": [
                       "chatgpt",
                       "gpt-4",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T16:06:37.057Z",
+    "last_updated": "2026-11-01T17:07:34.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on Embodied AI and related research/industry-driven resources.",
@@ -810,7 +810,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-06-03T15:13:28Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "haoranD",
       "repo": "Awesome-Embodied-AI",
       "stars": 539,
