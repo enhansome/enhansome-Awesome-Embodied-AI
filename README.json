@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8263,
+                "stars": 8264,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -69,7 +69,7 @@
                 "open_issues": 5,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2191,
+                "stars": 2192,
                 "topics": [
                   "agent",
                   "causality",
@@ -129,7 +129,7 @@
                 "open_issues": 17,
                 "owner": "jonyzhang2023",
                 "repo": "awesome-embodied-vla-va-vln",
-                "stars": 3624,
+                "stars": 3626,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.587Z"
@@ -209,11 +209,11 @@
                 "id": 655944566,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-06-25T03:13:24Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-08T02:57:55Z",
+                "open_issues": 0,
                 "owner": "JeffreyYH",
                 "repo": "Awesome-Generalist-Robots-via-Foundation-Models",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "foundation-models",
                   "foundation-models-for-robotics",
@@ -354,7 +354,7 @@
                 "open_issues": 151,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 71206,
+                "stars": 71218,
                 "topics": [
                   "agent",
                   "gpt",
@@ -378,10 +378,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-28T14:45:27Z",
-                "open_issues": 1161,
+                "open_issues": 1171,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 61737,
+                "stars": 61749,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -413,7 +413,7 @@
                 "open_issues": 35,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8263,
+                "stars": 8264,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -440,7 +440,7 @@
                 "open_issues": 71,
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5965,
+                "stars": 5966,
                 "topics": [
                   "autonomous-agents",
                   "language-model",
@@ -492,7 +492,7 @@
                 "open_issues": 71,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4424,
+                "stars": 4423,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -606,7 +606,7 @@
                     "open_issues": 151,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 71206,
+                    "stars": 71218,
                     "topics": [
                       "agent",
                       "gpt",
@@ -660,7 +660,7 @@
                     "open_issues": 71,
                     "owner": "aiwaves-cn",
                     "repo": "agents",
-                    "stars": 5965,
+                    "stars": 5966,
                     "topics": [
                       "autonomous-agents",
                       "language-model",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:50:32.544Z",
+    "last_updated": "2026-11-08T17:04:29.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on Embodied AI and related research/industry-driven resources.",
