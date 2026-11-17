@@ -1,8 +1,8 @@
 # Awesome-Embodied-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,950 | 🐛 104 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,458 | 🐛 104 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
-A curated list of awesome papers on Embodied AI and related research/industry-driven resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,652 | 🐛 99 | 📅 2024-05-17.
+A curated list of awesome papers on Embodied AI and related research/industry-driven resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,655 | 🐛 99 | 📅 2024-05-17.
 
 Embodied AI has led to a new breakthrough, and this repository will keep tracking and summarizing the research or industrial progress.
 
@@ -57,7 +57,7 @@ Please do consider this fantastic paper ：
 
 ### Emboddied AI and Robotics
 
-* [GT-RIPL's repository](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,505 | 🐛 12 | 📅 2026-10-29
+* [GT-RIPL's repository](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,504 | 🐛 13 | 📅 2026-10-29
 * [Qiang (Jony) ZHANG's repository](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) ⭐ 3,629 | 🐛 18 | 📅 2026-09-15
 * [Jiankai-Sun's repository](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) ⭐ 1,426 | 🐛 3 | 📅 2024-10-07
 * [Jacob Rintamaki's repository](https://github.com/jrin771/Everything-LLMs-And-Robotics) ⭐ 850 | 🐛 4 | 📅 2024-07-14
@@ -83,14 +83,14 @@ Please do consider this fantastic paper ：
 
 ### LLM-Driven
 
-* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT) ⭐ 71,301 | 🐛 156 | 🌐 Python | 📅 2026-01-21:octocat:
-* [AutoGen, EcoOptiGen](https://github.com/microsoft/autogen) ⭐ 61,874 | 🐛 1,182 | 🌐 Python | 📅 2026-11-12:octocat:
+* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT) ⭐ 71,329 | 🐛 156 | 🌐 Python | 📅 2026-01-21:octocat:
+* [AutoGen, EcoOptiGen](https://github.com/microsoft/autogen) ⭐ 61,896 | 🐛 1,182 | 🌐 Python | 📅 2026-11-12:octocat:
 * [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,265 | 🐛 35 | 📅 2025-09-12:octocat:
-* [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,964 | 🐛 71 | 🌐 Python | 📅 2024-09-26:octocat:
-* [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://github.com/OpenBMB/AgentVerse) ⭐ 5,165 | 🐛 41 | 🌐 JavaScript | 📅 2024-09-09 :octocat:
+* [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,968 | 🐛 71 | 🌐 Python | 📅 2024-09-26:octocat:
+* [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://github.com/OpenBMB/AgentVerse) ⭐ 5,166 | 🐛 41 | 🌐 JavaScript | 📅 2024-09-09 :octocat:
 * [ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models](https://github.com/modelscope/modelscope-agent) ⭐ 4,427 | 🐛 72 | 🌐 Python | 📅 2026-11-09 :octocat:
-* [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench) ⭐ 3,825 | 🐛 81 | 🌐 Python | 📅 2026-02-08:octocat:
-* [Vision-Language Tasks](https://github.com/jingyi0000/VLM_survey) ⭐ 3,135 | 🐛 2 | 📅 2026-11-16 :octocat:
+* [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench) ⭐ 3,827 | 🐛 81 | 🌐 Python | 📅 2026-02-08:octocat:
+* [Vision-Language Tasks](https://github.com/jingyi0000/VLM_survey) ⭐ 3,134 | 🐛 2 | 📅 2026-11-16 :octocat:
 * [AgentTuning: Enabling Generalized Agent Abilities For LLMs](https://github.com/THUDM/AgentTuning) ⭐ 1,510 | 🐛 17 | 🌐 Python | 📅 2023-10-31:octocat:
 * [DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects](https://arxiv.org/abs/2410.02730)
 * [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
@@ -108,13 +108,13 @@ Please do consider this fantastic paper ：
 
 #### 2023
 
-* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT) ⭐ 71,301 | 🐛 156 | 🌐 Python | 📅 2026-01-21:octocat:
-* [CogAgent: Visual Expert for Pretrained Language Models](https://github.com/THUDM/CogVLM) ⭐ 6,744 | 🐛 69 | 🌐 Python | 📅 2024-05-29:octocat:
-* [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,964 | 🐛 71 | 🌐 Python | 📅 2024-09-26:octocat:
-* [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench) ⭐ 3,825 | 🐛 81 | 🌐 Python | 📅 2026-02-08:octocat:
-* [Waymax: An accelerated simulator for autonomous driving research](https://github.com/waymo-research/waymax/tree/main) ⭐ 1,114 | 🐛 28 | 🌐 Python | 📅 2025-10-23:octocat:
+* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT) ⭐ 71,329 | 🐛 156 | 🌐 Python | 📅 2026-01-21:octocat:
+* [CogAgent: Visual Expert for Pretrained Language Models](https://github.com/THUDM/CogVLM) ⭐ 6,743 | 🐛 69 | 🌐 Python | 📅 2024-05-29:octocat:
+* [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,968 | 🐛 71 | 🌐 Python | 📅 2024-09-26:octocat:
+* [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench) ⭐ 3,827 | 🐛 81 | 🌐 Python | 📅 2026-02-08:octocat:
+* [Waymax: An accelerated simulator for autonomous driving research](https://github.com/waymo-research/waymax/tree/main) ⭐ 1,115 | 🐛 28 | 🌐 Python | 📅 2025-10-23:octocat:
 * [ProAgent: from Robotic Process Automation to Agentic Process Automation](https://github.com/OpenBMB/ProAgent) ⭐ 864 | 🐛 12 | 🌐 Python | 📅 2023-12-27:octocat:
-* [Language Guided Generation of 3D Embodied AI Environments](https://github.com/allenai/Holodeck) ⭐ 582 | 🐛 24 | 🌐 Python | 📅 2025-04-02:octocat:
+* [Language Guided Generation of 3D Embodied AI Environments](https://github.com/allenai/Holodeck) ⭐ 584 | 🐛 24 | 🌐 Python | 📅 2025-04-02:octocat:
 * [Simple but Effective: CLIP Embeddings for Embodied AI](https://github.com/allenai/embodied-clip) ⭐ 131 | 🐛 0 | 🌐 Python | 📅 2023-06-16 :octocat:
 * [HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND?](https://arxiv.org/pdf/2310.03051.pdf)
 * [MINDAGENT: EMERGENT GAMING INTERACTION](https://arxiv.org/pdf/2309.09971.pdf)
@@ -125,4 +125,4 @@ Please do consider this fantastic paper ：
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
